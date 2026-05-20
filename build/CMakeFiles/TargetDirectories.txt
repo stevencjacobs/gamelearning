@@ -1,0 +1,3 @@
+/home/steven/TextARPG/build/CMakeFiles/TextARPG.dir
+/home/steven/TextARPG/build/CMakeFiles/edit_cache.dir
+/home/steven/TextARPG/build/CMakeFiles/rebuild_cache.dir

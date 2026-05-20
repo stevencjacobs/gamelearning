@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/main.cpp.o -c /home/steven/TextARPG/main.cpp",
+  "file": "/home/steven/TextARPG/main.cpp",
+  "output": "CMakeFiles/TextARPG.dir/main.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/player.cpp.o -c /home/steven/TextARPG/player.cpp",
+  "file": "/home/steven/TextARPG/player.cpp",
+  "output": "CMakeFiles/TextARPG.dir/player.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/attackable_entity.cpp.o -c /home/steven/TextARPG/attackable_entity.cpp",
+  "file": "/home/steven/TextARPG/attackable_entity.cpp",
+  "output": "CMakeFiles/TextARPG.dir/attackable_entity.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/combat.cpp.o -c /home/steven/TextARPG/combat.cpp",
+  "file": "/home/steven/TextARPG/combat.cpp",
+  "output": "CMakeFiles/TextARPG.dir/combat.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/game_server.cpp.o -c /home/steven/TextARPG/game_server.cpp",
+  "file": "/home/steven/TextARPG/game_server.cpp",
+  "output": "CMakeFiles/TextARPG.dir/game_server.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/session.cpp.o -c /home/steven/TextARPG/session.cpp",
+  "file": "/home/steven/TextARPG/session.cpp",
+  "output": "CMakeFiles/TextARPG.dir/session.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/player_manager.cpp.o -c /home/steven/TextARPG/player_manager.cpp",
+  "file": "/home/steven/TextARPG/player_manager.cpp",
+  "output": "CMakeFiles/TextARPG.dir/player_manager.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/room.cpp.o -c /home/steven/TextARPG/room.cpp",
+  "file": "/home/steven/TextARPG/room.cpp",
+  "output": "CMakeFiles/TextARPG.dir/room.cpp.o"
+},
+{
+  "directory": "/home/steven/TextARPG/out/build/GCC 13.3.0 x86_64-linux-gnu",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/TextARPG.dir/player_store.cpp.o -c /home/steven/TextARPG/player_store.cpp",
+  "file": "/home/steven/TextARPG/player_store.cpp",
+  "output": "CMakeFiles/TextARPG.dir/player_store.cpp.o"
+}
+]
